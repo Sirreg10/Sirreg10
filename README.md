@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/188168224?v=4" alt="Profile Picture" width="150" />
+   <img src="https://github.com/user-attachments/assets/e43c0616-1581-4a07-9ff5-6a037a15d83b" alt="Profile Picture" width="150" />    
 </p>
 
 <h1 align="center">Hi, I'm Chukwuemeka Reginald Nkwocha 👋</h1>
@@ -58,6 +58,7 @@ Currently working as an **AI Consultant** at Cowbits Technology, developing pred
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
@@ -109,15 +110,15 @@ Currently working as an **AI Consultant** at Cowbits Technology, developing pred
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blessing-tech37&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Blessing-tech37&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sirreg10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>  -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirreg10&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Blessing-tech37" alt="GitHub Stats" />
+  <img src="https://ghchart.rshah.org/Sirreg10" alt="GitHub Stats" />
   <!--Update once a day-->
 </p>
----
+
 
 ## 📜 Certifications
 
@@ -148,7 +149,7 @@ Currently working as an **AI Consultant** at Cowbits Technology, developing pred
   <a href="mailto:reginaldnkwocha@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Blessing-tech37">
+  <a href="https://github.com/Sirreg10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -160,7 +161,7 @@ Currently working as an **AI Consultant** at Cowbits Technology, developing pred
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Blessing-tech37&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sirreg10&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center"><strong>Thanks for visiting! Feel free to explore my repositories and connect! 🚀</strong></p>
