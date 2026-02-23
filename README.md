@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-   <img src="https://github.com/account" alt="Profile Picture" width="150" />    
+   <img src="https://avatars.githubusercontent.com/u/54587652?s=400&u=f08bebc9362db2892615d0badea295c7632a1d34&v=4" alt="Profile Picture" width="150" />    
 </p>
 
 <h1 align="center">Hi, I'm Chukwuemeka Reginald Nkwocha 👋</h1>
